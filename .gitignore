@@ -1,0 +1,6 @@
+.DS_Store
+*.pdf
+ctu-chb-intrapartum-cardiotocography-database-1.0.0/
+synth/
+results/
+__pycache__/
